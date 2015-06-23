@@ -1,0 +1,15 @@
+{
+  "name": "node-express-static",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Marc D'Arcy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.0"
+  },
+  "devDependencies": {}
+}
